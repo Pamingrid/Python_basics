@@ -1,0 +1,7 @@
+print("What is your Name")
+myName=input("My name is ")
+print("What is your favorite food ? ")
+my_favorite_food=input("My favorite food is ")
+print("What is your favorite music ")
+my_favorite_music=input("My favorite music is ")
+print(f"You have the same name as my brother, he also like {my_favorite_food} and {my_favorite_music} as you it quite interesting")
