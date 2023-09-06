@@ -14,7 +14,7 @@ while True:
   elif menu == "add":
     item = input("What should I add to the todo list? : ")
     to_do_list.append(item)
-    print(f"Your actual todo list count :", {to_do_list})
+    print(f"Your actual todo list count :", {item})
   elif menu == "edit":
     item = input("What should I edit to the todo list? :")
     if item in to_do_list:
