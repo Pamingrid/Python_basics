@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T17:43:26.091Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="y5IZUyfpRTCYpOCHe4r2" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T17:59:38.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="HiyujErf-2ta4vFwLauY" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1114" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -169,6 +169,12 @@
           <mxGeometry x="0.6476" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hFmzFGxs8YS4ShEz1ebW-38" value="Employé" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hFmzFGxs8YS4ShEz1ebW-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
